@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
@@ -17,7 +19,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 
 
 NumPy is the fundamental package for scientific computing with Python.
-
+im happy to be making my first edit
 - **Website:** https://www.numpy.org
 - **Documentation:** https://numpy.org/doc
 - **Mailing list:** https://mail.python.org/mailman/listinfo/numpy-discussion
